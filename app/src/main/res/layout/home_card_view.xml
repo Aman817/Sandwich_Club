@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    app:cardCornerRadius="2dp"
+    android:layout_marginTop="10dp"
+    android:layout_margin="10dp"
+    app:cardElevation="8dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+
+        <ImageView
+            android:id="@+id/sandwichImage"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_200dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/sandwich_picture_content_description"
+            android:scaleType="centerCrop"
+            android:elevation="8dp"
+            />
+        <TextView
+            android:id="@+id/sandwichName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sandwich_name"
+            android:textSize="15sp"
+            android:textColor="@color/colorblack"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:fontFamily="@font/brandon_grotesque_bold_italic"
+            android:padding="5dp"
+            android:maxLines="2"
+            android:singleLine="false"
+            android:ellipsize="end"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F5DD02</color>
+    <color name="colorPrimaryDark">#F5DD02</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorblack">#111111</color>
+    <color name="back">#D9F4FF</color>
+    <color name="colorbackground">#3F423F</color>
+    <color name="colorwhite">#FCFCFC</color>
+    <color name="colormain">#E6B93D</color>
+
+    <color name="transparent_bg">#d8000000</color>
+
+
+    <color name="translucent_scrim_top">#26000000</color>
+    <color name="translucent_scrim_top_center">#0c000000</color>
+    <color name="translucent_scrim_bottom">#000000</color>
+    <color name="translucent_scrim_bottom_center">#da000000</color>
+    <color name="translucent_scrim_bottom_end">#6f000000</color>
+</resources>
