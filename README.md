@@ -53,6 +53,6 @@ SOFTWARE.
 
 ![](src/3.jpg)
 
-# Didplay
+# Detail
 
 ![](src/4.jpg)
