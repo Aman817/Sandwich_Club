@@ -12,9 +12,11 @@ Building a layout and populating its fields from data received as JSON is a comm
 # What Will I Learn?
 
 Through this project, you will:
- 	Learn how to submit projects for review
- 	Practice JSON parsing to a model object
- 	Design an activity layout
- 	Populate all fields in the layout accordingly
+1. 	Learn how to submit projects for review
+2. 	Practice JSON parsing to a model object
+3. 	Design an activity layout
+4. 	Populate all fields in the layout accordingly
 
 # Screenshots
+
+https://github.com/Aman817/Sandwich_Club/blob/master/src/1.jpg
