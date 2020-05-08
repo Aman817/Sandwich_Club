@@ -19,4 +19,18 @@ Through this project, you will:
 
 # Screenshots
 
-https://github.com/Aman817/Sandwich_Club/blob/master/src/1.jpg
+# Main
+
+![](src/1.jpg)
+
+# Home
+
+![](src/2.jpg)
+
+# Home
+
+![](src/3.jpg)
+
+# Didplay
+
+![](src/4.jpg)
